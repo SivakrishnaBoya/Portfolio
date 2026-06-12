@@ -1,124 +1,193 @@
-# Siva Krishna Boya - Portfolio
+# Siva Krishna Boya - Portfolio & Projects
 
-**Sr. Software Developer** | Hyderabad, Telangana
+Welcome to my professional portfolio and web projects showcase!
 
----
+## 🌐 Live Projects
 
-## 📄 Resume
-- [Download Resume](./resume/Boya_Siva_Krishna_3_Years-compressed.pdf)
+### 1. **Portfolio Website**
+- **Live Link:** https://portfolio-sk-boya.onrender.com
+- **GitHub:** https://github.com/SivakrishnaBoya/Portfolio/blob/main/index.html
+- Professional portfolio showcasing experience, skills, and projects
 
----
+### 2. **Multi-Timezone Digital Clock**
+- **Live Link:** https://portfolio-sk-boya.onrender.com/projects/digital-clock.html
+- **Features:**
+  - Real-time clock display for 30+ timezones
+  - Add/remove timezones dynamically
+  - Beautiful dark theme with animations
+  - LocalStorage for saving preferences
+  - Shows 12-hour, 24-hour, date, and day
 
-## 👨‍💼 Professional Summary
-
-Results-driven Software Developer with 3 years of experience in developing scalable enterprise applications using ASP.NET Core Web API, C#, NestJS, SQL Server, PostgreSQL, and Angular. Experienced in RESTful and HRMS application development, scheduler services, WebSocket implementation, authentication & authorization, role-based access control, stored procedures, functions, triggers, indexing, and Common Table Expressions (CTE) optimization. Azure cloud services, CI/CD pipelines, IIS deployment, and third-party API integrations. Skilled in backend architecture design, performance optimization, API development, and third-party payment gateway integrations. Experienced in production support.
-
----
-
-## 💼 Professional Experience
-
-### Sr. Software Developer | 9Pack Software Solutions Pvt Ltd
-**MAY 2024 – PRESENT**
-
-**Project: ERP Application**
-- Developed and maintained scalable REST APIs using ASP.NET Core Web API and NestJS for ERP applications
-- Worked on ERP workflow, customer management, admin modules, scheduler services, and work order management
-- Implemented role-based access control, JWT authentication, and user permission management
-- Developed backend services using C#, SQL Server, and PostgreSQL
-- Created and optimized stored procedures, functions, triggers, indexing, and CTE queries for better database performance
-- Performed SQL query optimization and database tuning for enterprise-level applications
-- Integrated third-party APIs and Azure services into ERP application
-- Participated in CI/CD deployment activities and third-party payment gateway integrations
-- Worked closely with frontend teams using Angular for API integration and debugging
-
-### Software Developer | Ainta Info Solutions Pvt Ltd
-**MAY 2023 – MAY 2024**
-
-**Project: HRMS Application**
-- Worked as a Backend Developer for HRMS application development using ASP.NET Core Web API and C#
-- Worked on candidate onboarding, employee onboarding, employment change, salary change, and timesheet management modules
-- Developed employee access management and role-based administration features
-- Developed backend services using C#, SQL Server, and PostgreSQL
-- Created and optimized SQL Server stored procedures, functions, triggers, indexing, and CTE queries
-- Performed database optimization and query tuning to improve application and reporting performance
-- Worked on API integrations, backend maintenance, debugging, and production support activities
+### 3. **Random Joke Generator**
+- **Live Link:** https://portfolio-sk-boya.onrender.com/projects/joke-generator.html
+- **Features:**
+  - Fetches jokes from JokeAPI
+  - Filter by joke type (General, Programming, Knock-Knock)
+  - Copy joke to clipboard
+  - Joke counter
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💼 About Me
 
-**Backend Development:**
-- ASP.NET Core Web API, C# & NestJS
-- SQL Server & PostgreSQL
-- Entity Framework
-- Angular
-- JavaScript & TypeScript
-- WebSockets
-- REST API Development
-- JWT Authentication
-- Role-Based Access Control
+**Sr. Software Developer** | 3+ Years Experience
 
-**Database:**
-- Stored Procedures & Functions
-- Triggers & Indexing
-- Common Table Expressions (CTE)
-- Query Optimization
-- Database Indexing & Tuning
+### Technical Skills
+- **Backend:** ASP.NET Core, C#, NestJS
+- **Frontend:** Angular, TypeScript, JavaScript
+- **Database:** SQL Server, PostgreSQL
+- **Cloud:** Azure Services, CI/CD Pipelines
+- **Tools:** Git, GitHub, Docker, Swagger
 
-**DevOps & Cloud:**
-- Azure Cloud Services
-- Azure Blob Storage
-- CI/CD Pipelines
-- IIS Deployment
+### Professional Experience
 
-**Tools & Practices:**
-- Git, GitHub, Swagger
-- Microservices Architecture
-- API Integration & Debugging
+**Sr. Software Developer** @ 9Pack Software Solutions Pvt Ltd
+- MAY 2024 – PRESENT
+- ERP Application Development
+- REST API Development with ASP.NET Core & NestJS
+- Database optimization and performance tuning
+- Azure cloud services integration
 
----
-
-## 📚 Languages
-
-- English
-- Telugu
-- Hindi
-
----
-
-## 🎓 Education
-
-**B.Tech - Mechanical Engineering**
-- Loyola Institute of Technology & Management, Hyderabad
-- **JNTU - 2017**
-
-**Diploma - Mechanical Engineering**
-- Government Polytechnic, Anantapur
-- **2014**
-
-**SSC (Secondary School Certificate)**
-- ZP High School, Perusoméla
-- **2011**
+**Software Developer** @ Ainta Info Solutions Pvt Ltd
+- MAY 2023 – MAY 2024
+- HRMS Application Development
+- Backend services with C# and PostgreSQL
+- Role-based access control implementation
 
 ---
 
 ## 🚀 Projects
 
 ### ERP Management System
-Enterprise-level ERP application developed for workflow management, work orders, customer management, admin modules, dashboards, scheduler services, authentication, and reporting systems using ASP.NET Core Web API, NestJS, SQL Server, PostgreSQL, and Angular.
+Enterprise-level ERP application with:
+- Workflow management
+- Customer management
+- Admin modules & dashboards
+- Scheduler services
+- Multi-level authentication
+
+**Tech Stack:** ASP.NET Core, NestJS, Angular, SQL Server, PostgreSQL
 
 ### HRMS Management System
-HRMS application developed for candidate onboarding, employee onboarding, salary changes, employment changes, timesheet management, payroll processing, attendance tracking, leave management, and employee administration functionalities using ASP.NET Core Web API, SQL Server, and Angular.
+Complete HR solution featuring:
+- Employee onboarding & management
+- Payroll processing
+- Attendance tracking
+- Leave management
+- Performance monitoring
+
+**Tech Stack:** ASP.NET Core, C#, PostgreSQL, Angular
 
 ---
 
-## 📞 Contact
+## 📞 Contact Information
 
-- **Location:** Hyderabad, Telangana
-- **Phone:** +91 87015\*\*\*\*
 - **Email:** siva.222@gmail.com
-- **GitHub:** [github.com/SivakrishnaBoya](https://github.com/SivakrishnaBoya)
+- **Location:** Hyderabad, Telangana, India
+- **Phone:** +91 87015****
+- **GitHub:** https://github.com/SivakrishnaBoya
+- **LinkedIn:** [LinkedIn Profile]
 
 ---
 
-*Last Updated: June 2026*
+## 📁 Repository Structure
+
+```
+Portfolio/
+├── index.html                          # Main portfolio page
+├── css/
+│   ├── style.css                      # Portfolio styling
+│   └── clock-style.css               # Clock styling
+├── js/
+│   ├── script.js                     # Portfolio interactivity
+│   ├── clock.js                      # Digital clock functionality
+│   └── joke.js                       # Joke generator
+├── projects/
+│   ├── digital-clock.html            # Multi-timezone clock
+│   └── joke-generator.html           # Random joke generator
+└── README.md                          # This file
+```
+
+---
+
+## 🎨 Features
+
+✅ Fully Responsive Design
+✅ Modern UI with Gradient Themes
+✅ Smooth Animations & Transitions
+✅ LocalStorage for Data Persistence
+✅ Real-time Updates
+✅ External API Integration
+✅ Mobile-Friendly
+✅ Cross-browser Compatible
+
+---
+
+## 🔧 How to Use
+
+### Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/SivakrishnaBoya/Portfolio.git
+
+# Navigate to project
+cd Portfolio
+
+# Open in browser
+open index.html
+```
+
+### Deploy on Render
+
+1. Connect your GitHub repository to Render
+2. Create a new Static Site
+3. Build Command: `npm run build` (if applicable)
+4. Publish Directory: `.` (root)
+5. Deploy!
+
+---
+
+## 📊 Technologies Used
+
+| Technology | Purpose |
+|-----------|----------|
+| HTML5 | Structure |
+| CSS3 | Styling & Animations |
+| JavaScript (ES6+) | Interactivity |
+| Intl API | Timezone Conversion |
+| JokeAPI | Random Jokes |
+| LocalStorage API | Data Persistence |
+
+---
+
+## 🌟 Recent Updates
+
+- ✨ Added Multi-Timezone Digital Clock
+- ✨ Added Random Joke Generator with API Integration
+- ✨ Deployed on Render for live access
+- ✨ Mobile responsive design improvements
+- ✨ Dark theme implementation
+
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 🎯 Future Enhancements
+
+- [ ] Weather App with live weather data
+- [ ] Todo List with task management
+- [ ] Calculator with advanced functions
+- [ ] Note-taking application
+- [ ] Expense tracker
+- [ ] Portfolio blog section
+
+---
+
+*Last Updated: June 12, 2026*
+
+**Built with ❤️ by Siva Krishna Boya**
